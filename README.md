@@ -1,4 +1,4 @@
-# -CNN-Convolutional-Neuron-Netowork
+#CNN-Convolutional-Neuron-Netowork
 Here you will all kind of code related to CNN architecture for your AI projects practice 
 <h2>[1]: STNNN (Sum of Three Numbers Neuron Networn)</h2>
 <pre>
@@ -8,5 +8,5 @@ Here you will all kind of code related to CNN architecture for your AI projects 
   all the data are generated vertually and real
   
   ![image](https://github.com/user-attachments/assets/1836e368-4c8e-47f9-82f4-290647d1ca56)
-
 </pre>
+Model Accuracy: 100.00%
