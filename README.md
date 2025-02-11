@@ -1,4 +1,4 @@
-#CNN-Convolutional-Neuron-Netowork
+# CNN-Convolutional-Neuron-Netowork
 Here you will all kind of code related to CNN architecture for your AI projects practice 
 <h2>[1]: STNNN (Sum of Three Numbers Neuron Networn)</h2>
 <pre>
